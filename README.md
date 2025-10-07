@@ -1,2 +1,2 @@
 # OS-Project
-Priority QUeue
+Priority Queue
